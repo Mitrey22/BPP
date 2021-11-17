@@ -1,0 +1,10 @@
+El ingreso total anual es de 280961
+Los gastos totales ascienden a 296791
+Durante el año ha habido una media de gastos mensual de 24732.583333333332
+Enero fue el mes en el que más se gastó y Abril el que menos
+
+Primeramente, mi objetivo era quitar los errores de en las columnas repasando cada una y almacenando los datos en una nueva lista. Para esto cree una función pasando los meses como variable.
+
+Luego esto volví a juntar las listas de cada mes en un dataframe. Para los cálculos con unos cuantos bucles for, unas funciones para el calculo y unas variables con los meses fue suficiente.
+
+El segundo apartado he estado intentándolo pero no soy capaz de solucionar las preguntas
