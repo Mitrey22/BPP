@@ -1,0 +1,2 @@
+Para realizar la documentación he encontrado pydoc que simplemente con el comando 
+python -m pydoc -w archivo.py (html para windows) genera la documentaciónel problema es que me da un error y no se el porque
